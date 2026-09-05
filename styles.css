@@ -6,8 +6,9 @@
 	opacity: 0.4;
 }
 .movieDetail{
-	position: top;
+	position: center;
 	width: 200px;
 	text-align: center;
 		font-size: 20px;
+	top: 50%;
 }
